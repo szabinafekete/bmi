@@ -2,7 +2,7 @@
   "name": "bmi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://szabinafekete.github.io/bmi-calc",
+  "homepage": "https://szabinafekete.github.io/bmi",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.17",
     "@testing-library/jest-dom": "^5.16.2",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
